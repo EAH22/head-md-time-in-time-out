@@ -18,7 +18,7 @@ but not at the same rate for people in different situations. For instance if you
 
 Space-Time as a single "thing", a four dimensional bloc in which the past and the future are just like spatial diemnsions (like North/South) in the equations of phsysics (Big Think, 2:00). You can construct a view of the world where the future is already there. In the fundamental laws of physics, physicists do say that there is no distinction between the past and future and even though it is in conflict with our intuitions about the world, from that perspective, time is not an independent element but rather another dimension, like sapce. There is a big question that isn't resovled yet tho : How is it that we can move in space in all any direction but through time in only one ? The past is always behind us --> arrow of time (TED-Ed, 1:38)
 
-![Something](images/Meiji.png)
+![Something](images/Time1.png)
 
 ## The second law of thermodynamics
 Basic common sense thing that things go to s*#@ (JRE Brian Cox, 1:29:52).
