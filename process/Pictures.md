@@ -11,34 +11,34 @@ I took pictures of some of my training partners before the training and after th
      alt=“data”
      style=“float: center;” />
      
-<img src=“assets/images/ATLAB2-1.png”
+<img src=“images/ATLAB2-1.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB2-2.png”
+<img src=“images/ATLAB2-2.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB3-1.png”
+<img src=“images/ATLAB3-1.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB3-2.png”
+<img src=“images/ATLAB3-2.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB4-1.png”
+<img src=“images/ATLAB4-1.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB4-2.png”
+<img src=“images/ATLAB4-2.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB5-1.png”
+<img src=“images/ATLAB5-1.png”
      alt=“data”
      style=“float: center;” />
 
-<img src=“assets/images/ATLAB5-2.png”
+<img src=“images/ATLAB5-2.png”
      alt=“data”
      style=“float: center;” />

@@ -1,9 +1,12 @@
 # Listening 
 
 ## Podacts & documentaries about time perception
-JRE #1233 (https://www.youtube.com/watch?v=wieRZoJSVtw)
-TED-Ed "Does time exists?(8https://www.youtube.com/watch?v=R3tbVHlsKhs)
-Big think "Time: Do the past, present and future exist all at once ?(https://www.youtube.com/watch?v=5vzymaIabWI)
+### JRE #1233 
+(https://www.youtube.com/watch?v=wieRZoJSVtw)
+### TED-Ed "Does time exists?
+(https://www.youtube.com/watch?v=R3tbVHlsKhs)
+### Big think "Time: Do the past, present and future exist all at once ?
+(https://www.youtube.com/watch?v=5vzymaIabWI)
 
 
 # Useful infos : 
