@@ -54,7 +54,7 @@ https://notesofnomads.com/japanese-date-system/
 https://www.nihu.jp/en/publication/nihu_magazine/028#:~:text=A%20Japanese%20era%20name%20is,mark%20the%20passage%20of%20time.
 https://en.wikipedia.org/wiki/Japanese_era_name
 
-
+![Something](images/Meiji.png)
 
 ## intro 
 While watching anime last night, there was a scene where a kid was talking about his deceased brother. At one point he said that he died "Meiji Year 27, September 17th". I wondered what it meant and decided to investigate.
