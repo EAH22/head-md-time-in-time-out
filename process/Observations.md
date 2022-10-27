@@ -69,3 +69,42 @@ First of all, today's year is 2022 right ? well for the japanese we are actually
 These observations on the nature of japanese era names and its calendar system highlighted the fact that there are numerous different calendars in the world based on lunar, solar and sometines both cycles. It could be interesting to investigate it more to understand the diffferences and how different ancient civilizations or modern era cultures relate to time fragmentations.
 
 ![Something](images/japanese-calendar.png)
+
+
+# Compiling 
+
+In this next part of my observations, I started going from the idea that past, present and futur happens al simultaniously on a quantum level (special theory of relativity). From there I found an article on the block universe theory from which I took some elements that resonated with me. Regarding the calendars topic, I wanted to find a multi temporal calendar and edend up reading essay/article on the gnomon labyrinths one can find in england and russia. From there I started to get interest in the very definition of what a labyrinth is and make sens of these new informations and merge them.
+
+## "Block Universe theory : Flow of Time" by (Alper Çakır,2020)
+"The block universe theory which is supported by special relativity, claims time isn’t the thing that we experience. According to theory, our universe is a block that contains everything in anywhere and anytime. In this context, past, present, and future are all real at the same time. There are no differences between them. Time behaves just like space in this theory, every moment has its own coordinate at the space-time continuum — the end and the beginning happen at the same time."
+
+![Something](images/blockUniverse.png)
+
+(...)"To facilitate narration, let’s visualize the block model of the universe with a prism. Here, height and width represent the space dimensions of the universe, and the length of the prism is the expression of time. One corner shows the big bang, the beginning of the time, and the other corner shows the end of the universe and time. This represented prism of block universe is filled with all the events that lived and will be lived. Events are found as coordinate points in the prism, all of them exist somewhere in the space-time continuum."
+
+"Time, from our perspective, flows in the form of yesterday, today, and tomorrow. However, according to the theory of the block universe, it is impossible to talk about a specific present time, it is relative to the past and the future. In other words, there is no flow of time. The truth is only in the form of a reflection of the event in that person’s mind. British physicist Julian Barbour describes the time as follows: “Successive images that constantly change together are successive photographs. I’m looking at you, you’re shaking your head. Without this change, we would not have the concept of time.” According to the Barbour, the truth is not the time, but change. Time only exists as a reflection of change.
+
+When we think of time as one of the other dimensions of space, we get a more understandable perspective. From this point of view, talking about the present time is a point that is equivalent to saying, “I’m here.” (...)"
+
+The "I'm here" coordonate on the prisme made me think of the "You are here" on maps or at the beginning of the map of labyrith maybe ?
+
+The passage about Julian Barbour on change being the sole element that could make sens of time made me rethink of my previous observation with the "before-after" pics at my BJJ academy and the concept of "Time as an emergent property". I will later explain how I think it is mergeable with the labyrinth gnomon concept.
+
+## Gnomon of Solar Hours Calendars—The Ancient Instrument of Orientation in Space-Time, a Key of a Labyrinth and a Basis of Modeling of the World (Alina Paranina, Roman Paranina, 2016) 
+
+"The proposed concept of a labyrinth-gnomon—an orientation tool in space and time– conveys possible usage of a bispiral labyrinth as a sundial, compass and calendar. The shadow of the vertically adjusted object in the centre—a gnomon (from Greek—indicator) reflects the daily and annual movement of the Sun. Aggregate daily shadow has the shape of the fork and reminds horns or wings. Calendar changes in the geometry of shadows conform to the structure of the figure of the
+ abyrinth and can be used to refer to the seasons: the first from the center of the arc corresponds to the short shadows of the summer solstice (next to it are the shadows all the summer months, which is consistent with the title this season in many European languages) The second arc corresponds to the equinoxes (separating the two main seasons, the first of which—the summer, and the second—winter), the last, eleventh arc corresponds to a time, close to the winter solstice. Twelfth of the arc at a latitude close to the Arctic Circle was not used, because noon shadow in the days of the winter solstice was far removed from the center of the labyrinth, for its observation is more suitable vertical screen of the stones - the northern addition (Fig. 6, В). In more southern regions where winter sun does not descend so low, and shadow is shorter, the
+extreme edge corresponds to the winter solstice, and the total number of arcs 12 and 7—in the classical forms of rational five arcs can be used twice."
+
+In my own understanding what can be taken from a labyrinth-gnomon is that its structure is made in a way that the shadow on the rocks coming from the sun's light gives indications in a form of calendar.
+
+## Key Insights
+
+The definition of a labyrinth is " a complicated irregular network of passages or pathsin which it is difficult to find one's path". A labyrinth-gnomon is influenced by the sun. The block universe theory can be represented as a prism which its height is the dimensions of space and its length is it's time (B->E) where past, present and future happends all at the same time because you present time is merely a coordinate on the prism (I am here) and Julian Barbour describes time as a successive images that constantly changes.
+
+The definition of a labyrinth made me think of an allegory/metaphore of life. Sometimes you are lost in the flow of your life and you'd wish that somebody or something would give you a tip to help give guidance on your life. One could also argue that if everything is already "written" in the sense of the block universe theory, it still feels good to be reassured regarding one's path directions. Following those takes on the previous insights, in the form of labyrinth-gnomon which displays information thanks to the sun's light and the shadow it creats on rocks, another type of labyrinth-calendar could get its informations from time as an emergent property with before-after (past-futur) elements regarding the main character. Those elements would give indications to navigate through the labyrinth (Life).
+
+To know about those B-A elements interviews should be conducted.
+
+
+
