@@ -107,4 +107,31 @@ The definition of a labyrinth made me think of an allegory/metaphore of life. So
 To know about those B-A elements interviews should be conducted.
 
 
+# New Observations for the 02 of nov
+
+## pictures : before-after, long exposures, iPhone lives, timelapses and control images
+
+![Something](images/obs1.jpg)
+![Something](images/obs2.jpg)
+![Something](images/obs3.jpg)
+![Something](images/obs4.jpg)
+![Something](images/obs5.jpg)
+![Something](images/obs6.jpg)
+![Something](images/obs7.jpg)
+![Something](images/obs8.jpg)
+
+![Something](images/obslngexp.PNG)
+![Something](images/obscontrol1.PNG)
+![Something](images/obslngexp2.PNG)
+![Something](images/obscontrol2.PNG)
+
+![Something](images/iphonelive1.mov)
+![Something](images/obscontrol3.jpg)
+![Something](images/iphonelive2.mov)
+![Something](images/obscontrol4.jpg)
+
+
+![Something](images/clope.JPG)
+
+
 
