@@ -134,4 +134,182 @@ To know about those B-A elements interviews should be conducted.
 ![Something](images/clope.JPG)
 
 
+# Interview
+
+Questions interview
+
+*shows static picture* 
+
+1)Describe me what you see in this picture ? 
+
+*shows long exposure picture*
+
+2)And here ?
+
+3)What is different from the one before ?
+ 
+4)In your own words explain me what could suggest that time is passing in this picture ?
+
+*Shows timelapse*
+
+5)What about here ?
+
+*Shows cigarette burning pic*
+
+6)Would you tell time is passing here as well ?
+
+7)In what is it different from the timelapse ?
+
+
+
+
+
+
+Subject 1
+
+1)	Un Cycle de déplacement des véhicules. Et un espace entre eux, il et similaire.
+
+2)	Je vois précisément la fusion entre ces espaces mais en une seule ligne, comme si ils avaient fusionnés.
+
+3)	La différence est qu’on ne peut plus distinguer les éléments, ils sont mélangés, fusionnés. Quand je dis éléments je parle des véhicules.
+
+4)	Les traces, la distorsion. Il y a une part de l’image qui n’est pas statique.
+
+5)	Je sens qu’il y a une usure et une dégradation de l’élément. Quand il se consume, il disparaît. Ca peut s’associer à des étapes pour les gens et symbologie très forte derrière la cigarette comme un élément que se consume. Ca représente la réalité de tous, on nait on se reproduit, on meurt.
+
+6)	Oui, depuis l’analyse des signes j’y vois une action (dans l’image) pour y voir le temps il n’est pas nécessaire qu’il y ait du mouvement. Je vois une scène et non quelque chose de statique. Il y a aussi de l’incertitude car je ne sais pas si elle va se consumer complétement ou non.
+
+7)	Au niveau du temps c’est presque la même chose, seul al frome de représentation (une image et une vidéo). La vidéo se rapproche plus de nous car on voit tout en animé (perspective humaine) mais le message est le même.
+
+
+Subject 2
+
+1)	Je vois un milieu urbain un flux de navigation de voiture, moto, cycliste, passage piéton pour traverser. En arrière-plan de la végétation. Les trottoirs qui longent les bâtiments. On a aussi quelques panneaux de signalisation et toute une infrastructure qui permet aux bus de se déplacer.
+
+2)	J’ai l’impression qu’elle est plus vide d’interaction humaine, moins de circulation. Comme si la prise de vue était plus floue ou diffuse. Comme si le temps s’était fondu 
+
+3)	Elle (la 2ème) a l’air plus calme, statique, figée.
+
+4)	D’une part on a la luminosité ambiante du ciel en fonction des déplacement des nuages on peut voir que le temps passe de manière normale, flou de trajectoire des voitures qui naviguent en arrière-plan, puis la moto et voiture en premier plan qui attendent avant de partir, puis pour piéton il y a une sort d’attente , de marqueur du temps du temps a attendre pour traverser la rue 
+
+
+5)	Le temps que  la cig prend à être consumée le mouvement de la fumée indépendamment de la cig, c’est un maruqeur du temps qui avance. On sent que la vidéo est plus accéléré, on sent les vibrations de la pers qui tient la caméra, temps pas échelle 1 :1 mais plus accélérée, lumière ambiante -> jour
+
+6)	Bcp moins, on sait qu’il y a une action mais vu que la fumée est figée est que c’est une image on a aucune indication de savoir si la cig est éteinte ou si elle est allumée et qu’elle continue de se consumer, il y a moins de marqueurs.  Luminosité  jour Ca donne un moment entre 8h et 17h entre cette période de temps. Si la cig est éteinte, il y a moins de marqueurs
+
+7)	On a moins de marqueurs de temps tout simplement. On pourrait interpréter du coup bcp plus de chose face a une image statique. Dans une vidéo y’a une fin et un début et les choses sont plus posées dans le temps
+
+
+
+
+Subject 3
+
+1)	C’est l’intersection devant l’école avec des vélos et des voitures et un camion jaune.
+
+2)	Même intersection mais on peut pas voir les voiture des de manière distincte, comme si elles allaient trop vite.
+
+3)	Les voitures de la voie principale disparaissent.
+
+4)	C’est une exposition longue  donc on peut imaginer que c’est les voitures qui vont hyper vite et qu’on a pas le temps de les voir
+
+5)	La combustion de la clope
+
+6)	Oui, on devine qu’elle va pas rester comme ça et qu’elle va continuer a brûler.
+
+7)	L’animation, le fait que ça bouge.
+
+
+Subject 4
+
+1)	Je vois des véhicules, un carrefour proche de l’école, les nuages c’est peut-être aujourd’hui. On voit certains véhicules immobiles et d’autre qui bougent.
+
+2)	Il y a aussi des véhicules, on voit que c’est pas la même façon de prendre la photo, plus d’exposition donc on voit mieux les véhicules en mouvement
+
+3)	L’exposition. Les véhicules immobiles sont effectivement immobiles. Ca confirme ce que je pensais 
+
+4)	 le mouvement et le fait que ça soit une longue exposition
+
+5)	La clope qui se consume c’est le plus évident plus les gouttes de pluies qui se rajoutent sur les surfaces, et le simple fait que ce soit une vidéo c’est un marqueur de temps qui passe, ca passe dans le bon sens (pas a l’envers).
+
+6)	J’ai envie de dire que oui car on voit les cendres par terre on a la sensation que la cig brule car on devine de la fumée. Un truc qui se consume c’est une grosse image du temps qui passe que ce soit une cig ou une bougie.
+
+7)	L’image est statique.
+
+
+Subject 5
+
+1)Des vélos, des voitures, une route
+
+2) Moins de voiture et moins de motos.
+
+3)la quantité de passage
+
+4) la couleur du ciel. Pcq ca change en fonction du soleil et la lumière
+
+5) les gouttes de pluie qui tombent sur la cig et sèchent ensuite.
+
+6) il y a qqch qui se consume donc ça requiert du temps car ça a une dynamique et c’est ps un état statique.
+
+7)Elles m’évoquent la même chose. Si je me concentre que sur la cig c’est que je connais le processus de consumation d’une cig même quand l’image est fixe je vois le mouvement que ça crée
+
+Subject 6
+
+1)	Un passage piéton des voitures des vélos qui passent
+
+2)	Pareil un passage avec une moto et une voiture. Elles ont l’air d’être à l’arrêt alors que les autres étaient en mouvement (plus de mouvement). Les voitures sont en mouvement on voit leurs traces de passage.
+
+3)	Celle d’avant j’ai l’impression que les voitures sont à l’arrêt et celle d’après je vois un flux de mouvement. La première paraît bcp plus figée que la 2 -ème
+
+4)	Comme si le paysage ou les objets avaient été étirés
+
+5)	L’accéléré d’un objet qui disparaît. Le fait qu’il change d’apparence. Et pour changer d’apparence il a besoin de temps.
+
+6)	Non car c’est un instant figé, ca pourrait très bien être a une heure comme a une autre rien n’indique un changement de temps. C’est surtout lié au fait que la photo est figée.
+
+7)	La photo est figée et la vidéo est en mouvement. Vidéo temps passe, photo moment précis qui pourrait être n’importe quand dans la journée. On voit pas sur la photo que l’objet peut évoluer.
+
+Subject 7
+
+1)	Je vois une route je peux reconnaître la head derrière, je comprends pas qui est vert ou rouge (pour passer) peut être du sens opposé car je vois une voiture que j’imagine qui va venir vers moi.
+
+2)	Je vois une trace que je suppose qui est la voiture d’avant qui est passée selon la trajectoire imposée par le croisement des routes. J’arrive pas exactement distinguée quelle voiture c’est, je vois une trajectoire définie. Les deux arrêtées au feu rouge sont toujours là car je constate qu’elles ont pas bouger sinon j’aurais vu la trace.
+
+3)	Du coup le vélo a disparu et je pense qu’il est allé dans le direction de la trace car dans le sens logique de son déplacement c’est sa trajectoire. Tu sais comment une chose marche et tu imagines sa suite logique.
+
+4)	Clairement la trace de la voiture en mouvement ca te montre le passage du temps pcq tu peux voir un décalage de l’état de la voiture.
+
+5)	Déjà c’est une vidéo et donc je sais que le temps passe. Le fait de connaître comment marche une cigarette ca me dit que cette vidéo n’est pas tournée en arrière car je sais qu’une cig se consume comme ca. Si elle était au contraire que la cig ce reconstruit je pourrais. Je sais qu’un objet a un état initial et je sais que si on la brule quelle est son résultat final. Quand elle est brulée elle ne peut pas retourner a son temps initial et tu ne peux pas reconstruire la cig car physiquement ce n’est pas possible.
+
+6)	Non car je ne peux pas faire une comparaison. Dans le sens que sans l’avant et l’après je ne peux pas te dire si dans cet instant la si la cig est allumée ou pas. Ca me laisse un peu hésitante.
+
+7)	Avant j’étais certaine que la cig brulait car j’avais des preuves et la justement ca pourrait être une photo dune clope éteinte artistique mais je ne connais pas son état elle est au milieu de qqch mais est ce quelle arrêtée ou il y a une continuité
+
+Subject 8 
+
+1)le fait que la cigarette brûle et qu’elle se raccourcie et se transforme en cendre. D’abord elle est séche sur le papier,uis on voit des goutes, puis elle sèche à nouveau.
+
+2-3) vu que c’était un timelapse le temps avancait plus vite, là vu que c’est figé c’est plus dure de l’inscrire dans une temporalité même si je peux dire que la clope brûle. On ne sait pas trop ce qui se passe avant et après.
+
+Subject 9
+
+1)L’évolution de la cigarette, le fait qu’elle soit consumée. Le fait qu’il y ait du mouvement.
+
+2) Non, c’est un marqueur temporel d’un instant mais que le temps ne s’écoule pas.
+
+3) la différence d’état entre le début et la fin. Le mouvement, qui implique le temps et l’espace. Il n’y a pas de mouvement dans l’espace sans écoulement du temps.
+
+
+Pitch photo static clope 3 temporalities :
+
+Présent figée dans le temps
+Présent-continuité(futur)
+Passé-présent-futur
+
+Monde : tout est figé quand on s’approche d’un objet on voit sa temporalité (je ne sais pas encore laquelle).
+
+Cigarette exemple parlant car pour certains l’image figée ne représente que le présent et on ne peut pas deviner la continuité (est elle éteinte ?), ni son passé (quand a t’elle été allumée ? est ce que c’est une vraie qui brûle vraiment ? pour d’autres elle on peut facilement la placé dans une continuité (suite logique, elle va continuer de consumer), pour d’autres on y voit clairement un début quand elle a été allumée, un point T qui est le présent (la photo), et une fin (suite logique, elle va brûler).
+
+
+
+
 
