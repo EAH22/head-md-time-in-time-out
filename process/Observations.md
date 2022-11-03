@@ -309,7 +309,11 @@ Monde : tout est figé quand on s’approche d’un objet on voit sa temporalit�
 
 Cigarette exemple parlant car pour certains l’image figée ne représente que le présent et on ne peut pas deviner la continuité (est elle éteinte ?), ni son passé (quand a t’elle été allumée ? est ce que c’est une vraie qui brûle vraiment ? pour d’autres elle on peut facilement la placé dans une continuité (suite logique, elle va continuer de consumer), pour d’autres on y voit clairement un début quand elle a été allumée, un point T qui est le présent (la photo), et une fin (suite logique, elle va brûler).
 
+/////
 
+Mots pour définir le scope par rapport à la vidéo du vélo :
+
+![Something](images/scopeimg.jpg)
 
 
 
