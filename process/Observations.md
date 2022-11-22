@@ -315,10 +315,20 @@ Mots pour définir le scope par rapport à la vidéo du vélo :
 
 ![Something](images/scopeimg.jpg)
 
-Regarding the wordls:
+/////
+
+Regarding the worlds:
 
 
 ![Something](images/IMG_1135.jpg)
 ![Something](images/IMG_1136.jpg)
 
+
+I ended up choosing 3 worlds : 
+
+1) Camo - evolve - reappear - recognize
+2) Secret - invert - futur - light on
+3) Cloud - dismantle
+
+I want to have a retroactive narration where you understand at the end that the story isn't about amnesia but about different temporalities.
 
