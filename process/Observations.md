@@ -315,5 +315,10 @@ Mots pour définir le scope par rapport à la vidéo du vélo :
 
 ![Something](images/scopeimg.jpg)
 
+Regarding the wordls:
+
+
+![Something](images/IMG_1135.jpg)
+![Something](images/IMG_1136.jpg)
 
 
