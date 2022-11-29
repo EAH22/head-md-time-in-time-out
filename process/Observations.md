@@ -332,3 +332,37 @@ I ended up choosing 3 worlds :
 
 I want to have a retroactive narration where you understand at the end that the story isn't about amnesia but about different temporalities.
 
+/////
+
+After my tutorial of the 28th of november, I was asked to rewrite my worlds and give the more details. That's what I did. I also switched the secret world fror the moon world :
+
+Cloud World
+
+Le monde des nuages est paisible. Il y fait tempéré et on s’y sent bien. On y entre par trappe qui vient du monde de la lune. La trappe donne sur des escaliers. Une fois descendus, on entre dans le monde des nuages. En s’y promenant, on remarque que le sol est moelleux tel un matelas, blanc comme de la porcelaine et doux comme une étreinte. Les pieds s’y enfoncent légèrement à chaque pas, ce qui rappelle la sensation d’une marche d’hiver dans champ couvert de neige. Pourtant la matière n’est pas froide ou humide, seulement puffy. 
+
+Ce monde semble être composé d’un grand nombre de nuages aux formes irrégulières, collés les uns aux autres. Il n’y a pas de murs a proprement parlé mais lorsqu’on regarde vers le ciel on remarque qu’on est entourés de sortes de parois composées de courbes. Elles paraissent fermes, néanmoins, lorsqu’on y plonge les mains elles sont en réalité onctueuses comme une mousse. 
+
+L’horizon est vaste et s’étend à perte de vue à la manière d’une prise de vue par le hublot d’un avion. On pourrait s’y sentir perdu ou anxieux face à une telle immensité. Toutefois, l’environnement n’est pas hostile et la quiétude qui en découle permet de se sentir tout d’abord apaisé, avant de laisser place à la plénitude. 
+
+Bien que les nuages soient denses, des rayons de soleil se glissent dans leurs courbes, ce qui produit des reflets orangées. Quelques trous permettent de percevoir le bleu du ciel. Il n’y a pas d’odeur particulière qui se dégage, toutefois on dit que les nuages ont le goût de barbe à papa, en moins sucré. Par ailleurs, ces derniers ne sont pas les seuls à être suspendus, le temps y est aussi. Son passage semble arrêté car les rayons du soleil ne semblent jamais s’estomper ou se déplacer, il restent immobiles. Piégé dans un éternel présent, il te faut utiliser les artefacts récoltés dans les autres mondes pour pouvoir sortir. Donc la poussière de lune 
+
+
+Moon World
+
+Bien que la beauté soit subjective, le monde de la lune subjugue quiconque s’y aventure. Il y fait frais, pourtant on s’y sent à l’aise. On y entre par une porte spéciale au pied de l’arbre lunaire qui se trouve dans la forêt des changements. C’est une porte à verrou traditionnelle qui nécessite qu’on tourne une clé dans une serrure. Une fois entré dans le monde de la lune on remarque que le sol est rocailleux et poussiéreux. En se baladant, il est possible de rencontrer des cratères de toutes tailles, certains si gigantesques, qu’il est impossible de les mesurer à l’œil nu. D’autres bien plus petits, de la taille d’une balle de tennis. D’ici, l’entièreté de la terre peut être contemplée, ce qui confère un fort sentiment d’appartenance à la race humaine et à la Terre en général. 
+
+Autour de la lune : L’espace, si hostile et ténébreux. Ce néant qui angoisse, ça ne donne pas envie de s’y aventurer. Le monde lunaire reste illuminé, on s’y sent en sécurité, éclairé par le soleil. La poussière de lune qui recouvre l’entièreté de ce monde est translucide, couleur os, aux traits légèrement jaunes pâle. On n’arrive pas à réellement savoir si on se trouve sur un globe ou une plaine car l’horizon est vaste. 
+
+On sait que le temps passe car la largeur du sol qui s’étendait également à perte de vue se noie soudainement petit à petit dans la pénombre avant de revenir à son entièreté, il s’agit du cycle lunaire. Pour sortir de ce monde il faut s’aider de l’artefact (échelle ?) trouvé dans la forêt des changements, ce qui révèle la trappe (ou aide à descendre de puis la trappe).
+
+Changing Forest
+
+En sortant chercher ses clés, le personnage principal retourne dans le train qu’il aurait pris pour rentrer à la maison ce soir-là. Au terminus : « forêt changeante », il faut presser sur le bouton gris entouré d’un néon vert pour que la porte automatique et coulissante du train s’ouvre. En descendant les marches, on remarque qu’on se trouve au milieu d’un forêt si dense, qu’on s’y sent perdu dès les premières secondes. Les arbres sont si grands qu’on pourrait les confondre avec des gratte-ciels. 
+
+Il y fait chaud et humide, le soleil ne peut pas entrer à cause de la végétation si étendue. L’endroit est bruyant. Un cafarnaum de bruits se fait entendre. En tendnat l’oreille on entend des slithering et des coups d’ailes. Des grognement étranges se font également entendre. Le sol est jonché de racines, des feuilles, d’insectes. 
+
+Un sentiment de vulnérabilité se fait très vite ressentir, faisant place petit à petit à la peur. On s’y sent angoissé et mal à l’aise. De plus, la forêt est dynamique. Les branches des arbres bougent mais on ne sent pas de vent ce qui est troublant. En regardant de plus prêt on se rend compte que ce ne sont pas les arbres ni leurs branches qui bougent mais les troncs. Ils changent de formes, de taille et de couleur tel un cauchemar psychadélique. Une échelle (artefact)est appuyée contre un arbre dont le tronc ne semble pas bouger.
+
+
+
+
