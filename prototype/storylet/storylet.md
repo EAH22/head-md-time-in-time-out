@@ -1,0 +1,1 @@
+![Something](../images/strylet.jpg)
