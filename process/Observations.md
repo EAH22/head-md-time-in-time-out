@@ -364,5 +364,91 @@ Il y fait chaud et humide, le soleil ne peut pas entrer à cause de la végétat
 Un sentiment de vulnérabilité se fait très vite ressentir, faisant place petit à petit à la peur. On s’y sent angoissé et mal à l’aise. De plus, la forêt est dynamique. Les branches des arbres bougent mais on ne sent pas de vent ce qui est troublant. En regardant de plus prêt on se rend compte que ce ne sont pas les arbres ni leurs branches qui bougent mais les troncs. Ils changent de formes, de taille et de couleur tel un cauchemar psychadélique. Une échelle (artefact)est appuyée contre un arbre dont le tronc ne semble pas bouger.
 
 
+///////
+
+Re did my twine mid december. My storyboard as well.
+
+//////
+
+TEST DAY feed backs on my prototype :
+
+Groupe du matin :
+
+Réfléchir aux clés. On pourrait juste avoir une seule clé pour tout. Ou alors les déblorquer unes par unes : débloquer 6PM apèrs avoir débloquer 12AM.
+
+Le message / l'histoire est claire.
+
+Faire une variation sur l'ordre ? qu'est ce qui se passe de différent si on joue 6AM avant 12AM et inversément.
+
+Changer le dispositif sous forme de gant qui supporterait l'appereil.
+
+
+Alexia :
+
+Réfléchir à l'impact qu'ont les clés.
+
+Histoire plus concise ?
+
+SUR utilisation du bouton = boring
+
+Les clés ou capsules peuvent utilisé pour avoir l'opportunité d'amener qqch de + surprenant.
+
+Serait utile de faire une derniere version twine.
+
+Ne sens pas de différence entre les mondes (tout pareil)
+
+Il y aurait qqch à ajouter dans la partie des clés pour plus dde nuance.
+
+Dans les animations, pas besoin d'être autant imager, peu être plus abstrait.
+
+C'est une quête on perd de vue l'objectif dans l'histoire (il veut revenir)
+
+
+Groupe de l'après-midi :
+
+Narration bien amenée, bon prototype, expérience relativement courte (positif), fluide.
+
+Ils comprennent l'histoire globalement mais certains trucs sont flous. Certains passage (d'un monde à un autre?)
+Le début est bon.
+
+Pas percuter u'on se trouve dans un hopital directement.
+
+Les clés sont pour eux des capsules temporalles presque comme des parchemins ?
+
+Utilisation du bouton = OK -> rappelle les gameboys et c'est ludique.
+
+Moins logique avec les clés.
+
+
+Pierre et Laure :
+
+Clés pas assez utiles, enlever les clés ?
+
+Ouvrir une porte mais retourner c'est possible ?
+
+Porquoi mettre les clés dans les trous, elles peuvent déjà être dedans et on les tournent seulement.
+
+Est-ce que j epeux retourner en arrière ?
+
+Subire l'histoire vs. pouvoir retourner en arrière.
+
+Boutons peuvent remplacer les clés. Potentiomètres peuvent remplacer les boutons.
+
+Pourquoi 3 clés ? si ça change rien quand on les enlève. (là je dis que si on enlève on revient en arrière.)
+
+Et si on met la clé à droite à la place du bouton et des boutons à gauche (pas compris perso)
+
+Ils demandent : poourquoi changer l'objet et plus complexe. Est-ce que la clé ou les clés sont indispensables.
+
+Clé ont plus d'impacte et de fonctionnalité pour entrer dans le monde.
+
+Ecran : vérifier qu'il y a assez de place. Arduinp marque la taille du sketch en bas. Noter les tailles pourvoir à quel point ej pourrai mettre des images. On peut viter arriver à la fin de la mémoire et vu qu'il n'y a pas de carte sd intégrée il faudra peut-être que j'en intègre une au circuit.
+
+La boîte peut avoir une autre forme sans que ce soit trop figuratif. 
+
+Le boîtier peut être similaire à un moniteur qu'on pourrait trouver dans un hôpital -> se rapprocher d'un dispositif médical sans que ce soit trop complexe.
+
+
+
 
 
